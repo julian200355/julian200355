@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on quant
+- 🌱 常用语言 rust/python/javascript/dart/go
+- 📫 How to reach me: mail: zhu.julian@qq.com
 
 <!--
 **julian200355/julian200355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
