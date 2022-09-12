@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on quant
-- 🌱 常用语言 rust/python/javascript/dart/go
+- 🌱 常用语言 rust/python/flutter/javascript/dart/go
 - 📫 Email: zhu.julian@qq.com
 
 <!--
